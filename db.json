@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Main",
+      "content": "Bermain bersama temain itu sangat menyenangkan."
+    },
+    {
+      "id": "2",
+      "title": "Berlibur ke Yogyakarta",
+      "content": "Kota itu bagaikan impian saya."
+    },
+    {
+      "id": "3",
+      "title": "Maju pantang mundur",
+      "content": "Terus melaju pantang mundur."
+    },
+    {
+      "id": "ad26",
+      "title": "Makan",
+      "content": "Makanan terbaik ialah sup iga"
+    }
+  ]
+}

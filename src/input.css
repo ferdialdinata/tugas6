@@ -1,0 +1,19 @@
+/* input.css */
+
+/* Styling untuk input */
+.input-field {
+    @apply inline-block;
+    width: 100%;
+    max-width: 400px; /* Atur sesuai kebutuhan */
+    margin-bottom: 1rem;
+  }
+  
+  /* Styling untuk tombol */
+  .button {
+    @apply py-2 px-4 rounded bg-green-500 text-white cursor-pointer transition duration-300;
+  }
+  
+  .button:hover {
+    @apply bg-green-600;
+  }
+  
